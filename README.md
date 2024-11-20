@@ -32,6 +32,7 @@ The model is trained using the following parameters:
 ## Results
 
 The fine-tuned model can generate accurate and concise responses based on the provided training data. The results are showcased in the accompanying image, demonstrating the model's ability to understand and articulate Ravi's professional background effectively.
+[ModelResult](./finetuned_result.png)
 
 ## Usage
 
